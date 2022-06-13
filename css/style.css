@@ -24,6 +24,7 @@
     caret-color: white;
     box-shadow: inset px px 1px 1px #000000;
     border-radius: 10px;
+    background-color: whitesmoke;
    outline: none;
 }
 .cnopca{
@@ -78,6 +79,7 @@
     right: 16%; 
     font-size: 14px;
     font-weight: bold;
+    color: rgb(132, 132, 132);
 }
 .title{
     text-align: center;
